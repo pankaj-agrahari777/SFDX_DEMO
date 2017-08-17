@@ -2,14 +2,14 @@
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502946718914,
             "changeTime": 1502946718914,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502946718915,
             "changeTime": 1502946718915,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502947038052,
             "changeTime": 1502947038052,
-            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502946718922,
             "changeTime": 1502946718922,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502947025059,
             "changeTime": 1502947025059,
             "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -664,10 +664,10 @@
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10757,
-            "modifiedTime": 1502947038051,
-            "changeTime": 1502947038051,
-            "contentHash": "6f7a9a6114b4e87398085e2938c8a6b617e8a9cf"
+            "size": 10896,
+            "modifiedTime": 1502947316814,
+            "changeTime": 1502947316814,
+            "contentHash": "53e13c45a9154bf9eb64a818731a585d79bc8a90"
         }
     ],
     [
@@ -677,10 +677,10 @@
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10027,
-            "modifiedTime": 1502947038058,
-            "changeTime": 1502947038058,
-            "contentHash": "4b52f338e89a62fcbe5cf2f8cb014d8bbf230e0a"
+            "size": 10186,
+            "modifiedTime": 1502947316824,
+            "changeTime": 1502947316824,
+            "contentHash": "956827fc7941dec2a9cd153310055ae6bc35e030"
         }
     ],
     [
@@ -690,10 +690,10 @@
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10365,
-            "modifiedTime": 1502947038064,
-            "changeTime": 1502947038064,
-            "contentHash": "36063cf7d100e881f308502e33e1231162a4a925"
+            "size": 10524,
+            "modifiedTime": 1502947316834,
+            "changeTime": 1502947316834,
+            "contentHash": "e7d5ecfe340dd09c75313357b4548a0ae7db99ab"
         }
     ],
     [
@@ -703,10 +703,10 @@
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 22710,
-            "modifiedTime": 1502947038072,
-            "changeTime": 1502947038072,
-            "contentHash": "809ede764bb8a27a9a58a3bcea08d507f859d8f8"
+            "size": 22869,
+            "modifiedTime": 1502947316845,
+            "changeTime": 1502947316845,
+            "contentHash": "d4940bc9e6bbf01ec4d993f097fc85b3c4dd339a"
         }
     ],
     [
@@ -716,36 +716,36 @@
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10027,
-            "modifiedTime": 1502947038078,
-            "changeTime": 1502947038078,
-            "contentHash": "4b52f338e89a62fcbe5cf2f8cb014d8bbf230e0a"
+            "size": 10186,
+            "modifiedTime": 1502947316857,
+            "changeTime": 1502947316857,
+            "contentHash": "956827fc7941dec2a9cd153310055ae6bc35e030"
         }
     ],
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502947038026,
             "changeTime": 1502947038026,
-            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d"
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502947037882,
             "changeTime": 1502947037882,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -756,61 +756,74 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1502947038005,
-            "changeTime": 1502947038005,
-            "contentHash": "ff1fe19c90491fcf460b604d433c974dc5d8a9e9"
+            "modifiedTime": 1502947316771,
+            "changeTime": 1502947316771,
+            "contentHash": "ca8ee56ffa0a2221ad2933def7ccfc1ccd1f8d88"
         }
     ],
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects\\Account\\webLinks",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects\\Account\\webLinks",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502947038034,
             "changeTime": 1502947038034,
-            "contentHash": "0caec06144c909e4216d06654080dee841554608"
+            "contentHash": "0caec06144c909e4216d06654080dee841554608",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects\\Account\\listViews",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects\\Account\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502947038024,
             "changeTime": 1502947038024,
-            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05"
+            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502947038050,
             "changeTime": 1502947038050,
-            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0"
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502947038077,
             "changeTime": 1502947038077,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects\\Account\\fields\\TestField__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\WorkSpace\\Play Project\\DX\\Sample Project\\Aug 17 2017\\AccCategory\\force-app\\main\\default\\objects\\Account\\fields\\TestField__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1502947316772,
+            "changeTime": 1502947316772,
+            "contentHash": "c535e54a31cf71242f5b810ad2f3c9c28f1cd047"
         }
     ]
 ]
